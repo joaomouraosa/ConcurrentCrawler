@@ -1,5 +1,4 @@
-
-# Serving files locally
+> Serving files locally
 # # Compile the web server
 # # javac WebServer.java && java WebServer . 8080 1
 # # Run the sequential crawler
@@ -8,7 +7,7 @@
 # javac WebServer.java && java WebServer . 8080 1
 
 
-# Sequential crawler
+> Generic sequential crawler
 ## javac SequentialCrawler.java && java SequentialCrawler [URL] 
 ## E.g, java SequentialCrawler 2 https://docs.oracle.com/javase/8/docs/api/java/util/concurrent.html
 
